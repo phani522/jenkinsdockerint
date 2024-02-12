@@ -22,6 +22,7 @@ public class SpringDockerJenkinsSampleApplication {
 	
 		SpringApplication.run(SpringDockerJenkinsSampleApplication.class, args);
 		System.out.println("Jenkins integrated with Git, docker");
+		System.out.println("created sample branch");
 		
 	}
 
